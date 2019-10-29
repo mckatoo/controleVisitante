@@ -1,0 +1,10 @@
+C:\Users\aguinaldo\Desktop\controleVisitantes-master\controleVisitantes-master\CadastroEvento-20191023T223509Z-001\CadastroEvento\Evento\Evento\bin\Debug\Evento.exe.config
+C:\Users\aguinaldo\Desktop\controleVisitantes-master\controleVisitantes-master\CadastroEvento-20191023T223509Z-001\CadastroEvento\Evento\Evento\bin\Debug\Evento.exe
+C:\Users\aguinaldo\Desktop\controleVisitantes-master\controleVisitantes-master\CadastroEvento-20191023T223509Z-001\CadastroEvento\Evento\Evento\bin\Debug\Evento.pdb
+C:\Users\aguinaldo\Desktop\controleVisitantes-master\controleVisitantes-master\CadastroEvento-20191023T223509Z-001\CadastroEvento\Evento\Evento\obj\Debug\Evento.csprojAssemblyReference.cache
+C:\Users\aguinaldo\Desktop\controleVisitantes-master\controleVisitantes-master\CadastroEvento-20191023T223509Z-001\CadastroEvento\Evento\Evento\obj\Debug\Evento.Form1.resources
+C:\Users\aguinaldo\Desktop\controleVisitantes-master\controleVisitantes-master\CadastroEvento-20191023T223509Z-001\CadastroEvento\Evento\Evento\obj\Debug\Evento.Properties.Resources.resources
+C:\Users\aguinaldo\Desktop\controleVisitantes-master\controleVisitantes-master\CadastroEvento-20191023T223509Z-001\CadastroEvento\Evento\Evento\obj\Debug\Evento.csproj.GenerateResource.cache
+C:\Users\aguinaldo\Desktop\controleVisitantes-master\controleVisitantes-master\CadastroEvento-20191023T223509Z-001\CadastroEvento\Evento\Evento\obj\Debug\Evento.csproj.CoreCompileInputs.cache
+C:\Users\aguinaldo\Desktop\controleVisitantes-master\controleVisitantes-master\CadastroEvento-20191023T223509Z-001\CadastroEvento\Evento\Evento\obj\Debug\Evento.exe
+C:\Users\aguinaldo\Desktop\controleVisitantes-master\controleVisitantes-master\CadastroEvento-20191023T223509Z-001\CadastroEvento\Evento\Evento\obj\Debug\Evento.pdb
